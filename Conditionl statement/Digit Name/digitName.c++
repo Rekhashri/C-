@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+  int d;
+  cout<<"Enter digit";
+  cin>>d;
+
+  if(d==1)
+   cout<<"one";
+   else if(d==2)
+   cout<<"two";
+   else if(d==3)
+   cout<<"three";
+   else if(d==4)
+   cout<<"four";
+   else if(d==5)
+   cout<<"six";
+   else if(d==6)
+   cout<<"six";
+   else if(d==7)
+   cout<<"seven";
+
+   return 0;
+}
